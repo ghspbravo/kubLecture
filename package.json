@@ -2,7 +2,7 @@
   "name": "reveal.js",
   "version": "3.9.2",
   "description": "The HTML Presentation Framework",
-  "homepage": "http://revealjs.com",
+  "homepage": "https://ghspbravo.github.io/kubLecture/",
   "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
